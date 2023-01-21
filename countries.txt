@@ -7,5 +7,8 @@ Japan
 South Africa
 Egypt
 
+Germany
+France
+
 USA
 Canada
