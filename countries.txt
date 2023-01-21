@@ -6,3 +6,6 @@ Japan
 
 South Africa
 Egypt
+
+USA
+Canada
